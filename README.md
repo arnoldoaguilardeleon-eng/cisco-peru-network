@@ -99,8 +99,8 @@ Example path: `PC-Cajamarca → Libertad → Lima → Arequipa → PC-Arequipa`
 
 | File | Description |
 |---|---|
-|  [Descargar proyecto (.pkt)](Server.pkt)  | Full Cisco Packet Tracer simulation |
-|  [Descargar proyecto (.pkt)](Server.pkt) | Project documentation with screenshots and configs |
+|  [Descargar proyecto (.pkt)](Server-Peru.pkt)  | Full Cisco Packet Tracer simulation |
+|  [Descargar proyecto (.pkt)](SERVIDOR-NACIONAL.pdf) | Project documentation with screenshots and configs |
  
 
 ---
